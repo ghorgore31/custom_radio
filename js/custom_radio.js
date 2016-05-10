@@ -15,11 +15,4 @@ $(function(){
 		$(this).prev().prop('checked', true);
 
 	});
-
-
-	//verif saisie
-	$('#btn').click(function(){
-		console.log($('input[name=choix]:checked').val());
-		console.log($('input[name=sexe]:checked').val());
-	});
 });
