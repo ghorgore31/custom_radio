@@ -2,8 +2,7 @@
 Radio button widget with Jquery
 
 ###Require:
-Jquery library
-
+[Jquery](http://jquery.com/)
 
 ###Usage:
 in html file please insert this code in the head
